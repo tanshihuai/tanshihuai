@@ -1,5 +1,4 @@
 Hi, I am Jack.
-
 Check out my recent projects:
 
 📷 [Lensless AI Camera](https://github.com/tanshihuai/LensX) - Android app that  allows users to take "photos" without using their phone's camera.
